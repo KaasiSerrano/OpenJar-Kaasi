@@ -1,4 +1,4 @@
-- [Introduction] (introduction)
+- [Intro](introduction)
 - [Home](home)
 - [Gallery](gallery)
 - [Designs](designs)

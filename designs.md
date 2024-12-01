@@ -1,34 +1,43 @@
-# Designs
+---
 
+# **Designs** 🎨  
 
-![Jar CAD Models image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f4bd3216fb07e0610818bb71d688dfc8/large.png "cad models image")
+Explore OpenJar's 3D CAD models, repositories, and resources for makers, designers, and developers.
 
-* [GrabCAD Publication](https://grabcad.com/library/openjar-1) CAD downloads
-* [OpenJar on Github](https://github.com/dmalawey/OpenJar) github repository
-* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this
-* [Webpage Short Link](https://qr.page/g/2VtU8nxHXhN) this page, made with Docsify, but routed through our dynamic QR code generator
+![Jar CAD Models](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f4bd3216fb07e0610818bb71d688dfc8/large.png "CAD Models Image" ':class=image-50 center')  
 
-## Cap
-This design is uploaded to GrabCAD and features parameters appropriate for bottles.
-Access [Model on GrabCAD](https://grabcad.com/library/cap-43)
+---
 
-![cap design image](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg)
+### **Quick Links** 🔗  
+- [**GrabCAD Publication**](https://grabcad.com/library/openjar-1) – Download CAD models.  
+- [**OpenJar on GitHub**](https://github.com/dmalawey/OpenJar) – Access the repository.  
+- [**Docsify-This.net**](https://docsify-this.net/#/) – Template for building a page like this.  
+- [**Webpage Short Link**](https://qr.page/g/2VtU8nxHXhN) – Direct link to this page, routed through a dynamic QR code generator.
 
-> The first upload was a threaded cap for Mason Jars but this cap is a similar component intended for bottle cap designs.
-> Just like the Jar-cap, the bottle-cap has:
-> * Threads
-> * Sealing
-> * Grip
-> * Revolved body
->
-> But, the range of design needs for a bottle is a bit different than a jar so this model has bottle-goals integrated into design intent.
->  
+---
 
+## **Cap Design** 🧢  
 
-# Raw Links
+This **Cap Design** is optimized for bottles and incorporates essential features for robust usability.  
 
+![Cap Design](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1148c8c902ae0bd4ff8536bd32c8df54/original.jpg "Cap Design Image" ':class=image-50 center')  
 
+> **Key Features of the Bottle Cap:**  
+> - Threads for secure attachment.  
+> - Sealing for airtight or watertight performance.  
+> - Textured grip for easy handling.  
+> - A revolved body for a sleek, ergonomic design.  
 
-Learn to build documentation like this web page!  Huge thanks to Paul Hibbits who built the docsify-this infrastructure!
+> Unlike the Mason Jar cap, this bottle cap is tailored for bottle-specific applications, incorporating **design intent** for various use cases.  
 
-* [Docsify-This.net](https://docsify-this.net/#/) template to build a page like this.
+Access the model here: [**Model on GrabCAD**](https://grabcad.com/library/cap-43)  
+
+---
+
+## **Raw Links** 📚  
+
+Interested in creating documentation like this? Huge thanks to **Paul Hibbits** for developing the Docsify-This infrastructure!  
+
+- [**Docsify-This.net**](https://docsify-this.net/#/) – Build your page with this handy template.
+
+---

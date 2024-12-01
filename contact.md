@@ -1,0 +1,33 @@
+
+[← **Home**](home.md)  
+[**Gallery**](topic_gallery.md)  
+[**Designs**](designs.md)  
+[**Tutorials**](tutorials.md)  
+
+---
+
+# **Contact Us** 📬  
+
+Have questions, feedback, or want to collaborate? Reach out to the **OpenJar** team using the options below.
+
+---
+
+## **📧 Email**  
+For general inquiries, send us an email:  
+[**openjarproject@gmail.com**](mailto:openjarproject@gmail.com)
+
+---
+
+## **🌐 Social Media**  
+Follow us for updates, tips, and community stories:  
+- [**GitHub Repository**](https://github.com/dmalawey/OpenJar) – Contribute to the project.  
+- [**GrabCAD**](https://grabcad.com/library/openjar-1) – Access models and tutorials.
+
+---
+
+## **💬 Learn about Docsify-This!**  
+Join the conversation and share your ideas:  
+[**Docsify-This Forums**](https://docsify-this.net/#/)  
+
+
+---
