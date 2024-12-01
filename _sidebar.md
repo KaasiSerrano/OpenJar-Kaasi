@@ -1,4 +1,6 @@
+- [Introduction] (introduction)
 - [Home](home)
 - [Gallery](gallery)
 - [Designs](designs)
 - [Tutorials](tutorials)
+- [Contact](contact)
