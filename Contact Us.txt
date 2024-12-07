@@ -1,3 +1,5 @@
+Maybe we don't need the contact page?
+
 
 [← **Home**](home.md)  
 [**Gallery**](topic_gallery.md)  
@@ -31,3 +33,12 @@ Join the conversation and share your ideas:
 
 
 ---
+
+
+
+
+
+Combine all of these into the following:
+
+
+

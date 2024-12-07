@@ -1,7 +1,4 @@
-- [Intro](introduction)
 - [Home](home)
 - [Gallery](gallery)
+- [Downloads](downloads)
 - [Designs](designs)
-- [Tutorials](tutorials)
-- [Contact](contact)
-- [MakerLuis] (MakerLuis)
