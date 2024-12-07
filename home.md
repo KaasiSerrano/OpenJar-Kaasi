@@ -15,6 +15,7 @@ Explore other open-source initiatives by DM & SCUTTLE team:
 - [Mechatronics Resources](https://bit.ly/openmechatronics)  
 - [OpenArm](https://bit.ly/openarm)  
 - [OpenJar](https://bit.ly/openjarproject_v1)  
+[![OpenJar](OpenJar.png)](https://bit.ly/openjarproject_v1)
 - [OpenBox](https://bit.ly/openboxproject)  
 - [OpenSpin](https://bit.ly/openspinproject)  
 - [OpenAir](https://bit.ly/openairproject)  
