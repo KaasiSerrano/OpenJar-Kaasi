@@ -1,4 +1,4 @@
-# **OpenJar: An Open-Source Hardware Design**
+# **Kaasi-OpenJar: An Open-Source Hardware Design**
 
 > **Reduce, Reuse, Recycle** with modern technology  
 > Explore the project on [GitHub](https://github.com/dmalawey/OpenJar)
